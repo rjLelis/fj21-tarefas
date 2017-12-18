@@ -1,5 +1,5 @@
 # fj21-tarefas
-Organizar a lista de tarefas feito com servlet, JSP e Spring MVC
+Organizar a lista de tarefas feito com servlet, JSP, Spring MVC e um alguns exemplos de Hibernate
 
 Feito com auxilio da apostila "Java para Desenvolvimento WEB"
 
